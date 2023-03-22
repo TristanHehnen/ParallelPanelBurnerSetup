@@ -27,6 +27,7 @@ stdout.*
 *.smv
 *.sinfo
 *.s3d.sz
+*.ini
 *.log
 time_stop
 *.sh
