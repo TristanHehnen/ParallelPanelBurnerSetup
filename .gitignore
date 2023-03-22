@@ -1,0 +1,41 @@
+# Directories
+GeneralInformation/macfp-db/
+GeneralInformation/matl-db/
+
+# File types
+*.png
+*.pdf
+*.bmp
+
+# FDS output
+*_hrr.csv
+*_devc.csv
+*_cpu.csv
+*_steps.csv
+*.end
+*.out
+*.restart
+*.pickle
+stderr.*
+stdout.*
+*.bf
+*.bf.bnd
+*.binfo
+*.s3d
+*.sf
+*.sf.bnd
+*.smv
+*.sinfo
+*.s3d.sz
+*.log
+time_stop
+*.sh
+*.pleiades
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
