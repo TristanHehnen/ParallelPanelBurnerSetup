@@ -1,11 +1,14 @@
 # Directories
 GeneralInformation/macfp-db/
 GeneralInformation/matl-db/
+GeneralInformation/Blender/
 
 # File types
 *.png
 *.pdf
 *.bmp
+*.blend
+*.blend1
 
 # FDS output
 *_hrr.csv
