@@ -9,6 +9,7 @@ GeneralInformation/Blender/
 *.bmp
 *.blend
 *.blend1
+*.filepart
 
 # FDS output
 *_hrr.csv
